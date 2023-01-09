@@ -1,0 +1,11 @@
+{
+  "name": "aljonadamos-midterm-lab-b",
+  "version": "1.0.0",
+  "description": "Create a node.js application that utilizes a file as a simple database see (f-01). Your app should generate and process from user input see (i-01). Modify your package.json.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aljon adamos",
+  "license": "ISC"
+}
